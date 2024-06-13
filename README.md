@@ -15,7 +15,8 @@ Repositorio para armazenar resumos sobre Git e GitHub
 
  | Aulas | Resumo|
   |-------| -----|
-|Gravando Alterações no Repositorio Local|[Resumos]()|
+|Aula-01| [Resumos]()|
+|Aula-02|[Resumos]()|
 
 
 ```
